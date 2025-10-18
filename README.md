@@ -86,3 +86,6 @@ Los mensajes deberían seguir existiendo gracias al volumen `db_data`.
 1. ¿Por qué es mejor usar variables de entorno que hardcodear credenciales?
 2. ¿Qué ventaja ofrece Docker Compose frente a ejecutar contenedores por separado?
 3. ¿Qué sucede si eliminas el volumen db_data?
+
+<img width="1919" height="1014" alt="image" src="https://github.com/user-attachments/assets/77d31262-8c66-4d65-a76c-e937a185ecdb" />
+
